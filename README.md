@@ -64,3 +64,6 @@ fields.
 - `company-slogan`: A slogan or tagline for your company (optional).
 
 Feel free to reach out if you have any questions or need further assistance. Happy coding!
+
+
+**Note:** The design is inspired from https://www.canva.com/p/templates/EAFQHkE0bec-red-black-creative-modern-business-card/
