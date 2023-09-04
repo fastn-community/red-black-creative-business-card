@@ -15,13 +15,13 @@ width: fill-container
 height: fill-container
 background.image: $back-bg
 align-content: center
+color: $inherited.colors.text-strong
 
 -- ftd.image: $back.logo
 max-width.fixed.px: 100
 
 -- ftd.text: $back.company-name
 role: $inherited.types.heading-medium
-color: $inherited.colors.text-strong
 width: fill-container
 text-align: center
 margin-top.px: 16
