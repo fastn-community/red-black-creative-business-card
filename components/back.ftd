@@ -4,8 +4,8 @@ ftd.image-src logo:
 optional string company-slogan:
 
 -- ftd.column:
-width.fixed.px: 700
-height.fixed.px: 350
+width: fill-container
+height: fill-container
 background.solid: $inherited.colors.background.base
 border-width.px: 1
 border-color: $inherited.colors.border
